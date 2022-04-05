@@ -40,13 +40,13 @@ public class Android extends Save implements Pembobotan {
         if(hasil() >= 85)
         {
             System.out.println("KETERANGAN : LOLOS");
-            System.out.println("Selamat, " + super.nama + " telah diterima sebagai Developer Web");
+            System.out.println("Selamat, " + super.nama + " telah diterima sebagai Developer Android");
         }
 
         else
         {
             System.out.println("KETERANGAN : GAGAL");
-            System.out.println("Mohon maaf, " + super.nama + " telah ditolak sebagai Developer Web");
+            System.out.println("Mohon maaf, " + super.nama + " telah ditolak sebagai Developer Android");
         }
     }
 }
