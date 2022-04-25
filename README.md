@@ -11,4 +11,4 @@ Repository Tugas Praktikum PBO 2022
 - Tugas 2 (Balok dan Tabung) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Tugas-2) | [Video](https://youtu.be/-MHeexDqk-I)
 - Tugas 3 (Luas Permukaan Balok) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Tugas-3) | [Video](https://youtu.be/5-rjgnwUoKs)
 - KUIS (Android & Dev) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/KUIS) | [Video](https://youtu.be/_Q5vs-AZHtE)
-- Tugas 3 (Login & Register) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Tugas-4) | [Video](https://youtu.be/5-rjgnwUoKs)
+- Tugas 4 (Login & Register) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Tugas-4) | [Video](https://youtu.be/5-rjgnwUoKs)
