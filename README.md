@@ -13,4 +13,4 @@ Repository Tugas Praktikum PBO 2022
 - KUIS (Android & Dev) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/KUIS) | [Video](https://youtu.be/_Q5vs-AZHtE)
 - Tugas 4 (Login & Register) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Tugas-4) | [Video](https://youtu.be/TOpWbxSa5kE)
 - Responsi (Movie) | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Responsi) | [Video](https://youtu.be/TOpWbxSa5kE)
-- Project Akhir PBO Restoran | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Responsi) | [Video](https://youtu.be/TOpWbxSa5kE)
+- Project Akhir PBO Restoran | [Source Code](https://github.com/lutfielyas/Tugas-Praktikum-PBO/tree/Project-PBO-Restoran) | [Video](https://youtu.be/XSikTVqOxjo)
